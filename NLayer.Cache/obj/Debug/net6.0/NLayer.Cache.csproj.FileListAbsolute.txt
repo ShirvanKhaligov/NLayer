@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\NLayerApp\NLayer.Cache\bin\Debug\net6.0\NLayer.Cache.deps.json
+C:\Users\Admin\Desktop\NLayerApp\NLayer.Cache\bin\Debug\net6.0\NLayer.Cache.dll
+C:\Users\Admin\Desktop\NLayerApp\NLayer.Cache\bin\Debug\net6.0\NLayer.Cache.pdb
+C:\Users\Admin\Desktop\NLayerApp\NLayer.Cache\obj\Debug\net6.0\NLayer.Cache.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\NLayerApp\NLayer.Cache\obj\Debug\net6.0\NLayer.Cache.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\NLayerApp\NLayer.Cache\obj\Debug\net6.0\NLayer.Cache.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\NLayerApp\NLayer.Cache\obj\Debug\net6.0\NLayer.Cache.AssemblyInfo.cs
+C:\Users\Admin\Desktop\NLayerApp\NLayer.Cache\obj\Debug\net6.0\NLayer.Cache.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\NLayerApp\NLayer.Cache\obj\Debug\net6.0\NLayer.Cache.dll
+C:\Users\Admin\Desktop\NLayerApp\NLayer.Cache\obj\Debug\net6.0\refint\NLayer.Cache.dll
+C:\Users\Admin\Desktop\NLayerApp\NLayer.Cache\obj\Debug\net6.0\NLayer.Cache.pdb
+C:\Users\Admin\Desktop\NLayerApp\NLayer.Cache\obj\Debug\net6.0\ref\NLayer.Cache.dll
